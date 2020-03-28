@@ -8,4 +8,18 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="Title">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Score">
+        <item name="android:textColor">#019828</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+
+    <style name="Date">
+        <item name="android:textColor">#33523b</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+
 </resources>
